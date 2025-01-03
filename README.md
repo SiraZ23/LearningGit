@@ -1,4 +1,4 @@
 # LearningGit
 Learning Git 
 <br>
-Author - Siraj Oli
+Author - Siraj Oli (Sarkar)
